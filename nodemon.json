@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER":"rcc3823",
+        "MONGO_PASSWORD":"Pehletude",
+        "MONGO_DB":"events-react-dev"
+    }
+}
